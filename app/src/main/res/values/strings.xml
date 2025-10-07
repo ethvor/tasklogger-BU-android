@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">tasklogger</string>
+    <string name="textview">TextView</string>
+    <string name="taskdoer_text_label">Task doer</string>
+    <string name="enter_task_text_label">Enter Task</string>
+    <string name="enter_taskdoer_default_text">name</string>
+    <string name="enter_task_default_text">task</string>
 </resources>
